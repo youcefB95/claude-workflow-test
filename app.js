@@ -1,0 +1,1 @@
+// créer une fonction qui donne le cube d'un nombre
